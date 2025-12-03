@@ -3,7 +3,7 @@ const cobra = {
     tamanho: 10,
     x: 400,
     y: 260,
-    cor: 'yellow', 
+    cor: 'red', 
     direcao: 'right',
     desenhar(){
         cCtx.fillStyle = this.cor
