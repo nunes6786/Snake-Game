@@ -1,8 +1,8 @@
 const placar = {
     largura: 800,
     altura: 60,
-    corFundo: 'gray',
-    corTexto: 'black',
+    corFundo: 'black',
+    corTexto: 'white',
     pontuacao: 0,
     nomeJogo: "IFRJ SnakeZz",
     desenhar(){
